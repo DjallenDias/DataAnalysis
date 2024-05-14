@@ -1,5 +1,5 @@
 # Motivation
-After I did the [IDSProject](https://github.com/DjallenDias/IDSProject), I was motivated to analyze more about Brazil, comparing it with oters countries.
+After I did the [IDSProject](https://github.com/DjallenDias/IDSProject), I got motivated to analyze more about Brazil, comparing it with oters countries.
 
 I want to see some data about Brazil and compare this with countries that are more and less developed than Brazil.
 
